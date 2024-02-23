@@ -1,0 +1,67 @@
+body{
+    width: 100%;
+}
+
+html {
+    background-color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: Verdana, Geneva, sans-serif;  
+}
+
+header {
+    padding-bottom: 5px;
+    background-color: rgb(243, 109, 0);
+}
+
+.logo {    
+    width: 18px;
+    height: 18px;
+    border: 1px white solid;
+}
+
+#imgpos {
+    position:relative;
+    top: 4px;
+    left: 3px;
+}
+
+.cabecalho {
+    line-height:12px;
+    height: 10px;
+    padding-top: 10px;
+
+}
+
+.login {
+    padding-left: 46%;
+}
+
+.textarea {   
+    width: 100%;  
+    padding-top:10px;
+    padding-bottom: 1000px;
+    background-color:#f6f6ef
+}
+
+ol {
+    line-height: 7px;
+}
+
+li {
+    margin-left: -12px;
+    font-size: 13px;
+}
+
+.itemlink {
+    font-size: smaller;
+    color: grey;
+}
+
+.description {
+    color: grey;
+    font-size: xx-small;
+    line-height: 2;
+}
+
+
